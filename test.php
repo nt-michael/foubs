@@ -17,7 +17,7 @@
 </head>
 
 <body style="text-align: center; "><!--#F5F5F5-->
-<?php include('navbar.php') ?>
+<?php require('navbar.php') ?>
 	<br/><br/>
 
 	
